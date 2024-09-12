@@ -15,6 +15,7 @@ class Test6 {
 
         int c = a + b;
         System.out.println("Result: " + c);
+        add.close();
 
     }
 }
