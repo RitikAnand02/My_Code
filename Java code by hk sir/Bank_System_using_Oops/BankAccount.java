@@ -11,9 +11,9 @@
  */
 
 public class BankAccount {
-  String bankName;
-  String branchName;
-  String ifsc;
+  static String bankName;
+  static String branchName;
+  static String ifsc;
 
   long accNum;
   String accHName;

@@ -26,7 +26,7 @@ public class Bank {
         System.out.println("acc1 detials");
         System.out.println("------------------------------");
         System.out.println(" acc1.bankName\t: " + acc1.bankName);
-        System.out.println(" acc1.branchName: " + acc1.branchName);
+        System.out.println(" acc1.branchName: " + BankAccount.branchName);
         System.out.println(" acc1.ifsc\t: " + acc1.ifsc);
         System.out.println(" acc1.accNum\t: " + acc1.accNum);
         System.out.println(" acc1.accHName\t: " + acc1.accHName);
