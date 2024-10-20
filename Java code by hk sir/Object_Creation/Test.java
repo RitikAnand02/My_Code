@@ -1,5 +1,8 @@
 package Object_Creation;
 
+import A;
+import Example;
+
 class Example{
    static void m1 (Object obj){
     if(obj instanceof C){
